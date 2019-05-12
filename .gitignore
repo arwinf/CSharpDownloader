@@ -3,3 +3,6 @@
 ################################################################################
 
 /CSharpDownloader/obj
+/.vs
+/CSharpDownloader/bin/Debug/netcoreapp2.2
+/CSharpDownloader/bin/Debug/netcoreapp2.1
